@@ -11,3 +11,6 @@ torchvision 0.5.0
 pandas 0.20.3
 
 opencv 3.4.2
+
+# 工程运行注意事项
+root_path 此变量需要替换为自己设备下的数据机存储根路径
